@@ -11,6 +11,8 @@ public class LaunchBrowser {
 		
 		WebDriver driver=new ChromeDriver();
 		
+		
+		System.out.println("hi");
 	}
 
 }
